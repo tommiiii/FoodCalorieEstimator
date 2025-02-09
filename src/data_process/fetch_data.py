@@ -10,6 +10,7 @@ API_KEY = os.getenv("USDA_API_KEY", "")
 BASE_URL = "https://api.nal.usda.gov/fdc/v1/foods/search"
 DATA_TYPE = ["Foundation", "Survey (FNDDS)"]
 SAMPLE_SIZE = int(os.getenv("SAMPLE_SIZE", 1000))
+ALLOWED_FIELDS = ["fdcId", "description", "commonNames", "scientificName", "additionalDescriptions", "foodNutrients"]
 
 params = {
     "api_key": API_KEY,
@@ -32,6 +33,7 @@ random.shuffle(pages)
 random_pages = pages[:min(num_pages_to_fetch, max_page)]
 
 all_entries = []
+filtered_entries = []
 
 print(f"Fetching {len(random_pages)} pages of {page_size} entries each")
 for i, page in enumerate(random_pages, start=1):
@@ -45,18 +47,38 @@ for i, page in enumerate(random_pages, start=1):
     if response.status_code == 200:
         page_data = response.json()
         foods = page_data.get("foods", [])
-        all_entries.extend(foods)
+        for item in foods:
+            filtered_item = {field: item[field] for field in ALLOWED_FIELDS if field in item}
+            filtered_entries.append(filtered_item)
         print(f"{((i/len(random_pages))*100):0,.1f}% - {i}/{len(random_pages)}")
     else:
         print(f"Failed to fetch page {page}: Status code {response.status_code}")
 
-print("Total fetched entries:", len(all_entries))
+print("Total fetched entries:", len(filtered_entries))
 
-all_entries.sort(key=lambda entry: entry.get("description", "").lower())
+filtered_entries.sort(key=lambda entry: entry.get("description", "").lower())
 
-output_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "raw")
-os.makedirs(output_dir, exist_ok=True)
-output_file = os.path.join(output_dir, f"usda_food_foundation_data_{SAMPLE_SIZE}_entries.json")
-with open(output_file, "w") as f:
-    json.dump(all_entries, f, indent=2)
-print(f"Raw data saved to {output_file}")
+model_data = [x.get("description", "") for x in filtered_entries]
+
+split_index = math.floor(len(model_data) * 0.8)
+train_data = model_data[split_index:]
+eval_data = model_data[:split_index]
+
+output_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data")
+
+output_file_train = os.path.join(os.path.join(output_dir, "train"), f"usda_{len(train_data)}.json")
+with open(output_file_train, "w") as f:
+    json.dump(train_data, f, indent=2)
+    
+print(f"Training data saved to {output_file_train}")
+    
+output_file_eval = os.path.join(os.path.join(output_dir, "eval"), f"usda_{len(eval_data)}.json")
+with open(output_file_eval, "w") as f:
+    json.dump(eval_data, f, indent=2)
+    
+print(f"Evaluation data saved to {output_file_eval}")
+
+output_all_file = os.path.join(output_dir, "raw", f"usda_{len(filtered_entries)}.json")
+
+with open(output_all_file, "w") as f:
+    json.dump(filtered_entries, f, indent=2)

@@ -1,8 +1,10 @@
 import json
 import torch
 import os
+import glob
+import re
 from torch.utils.data import Dataset
-from transformers import BertTokenizer, BertForSequenceClassification, Trainer, TrainingArguments
+from transformers import BertTokenizer, BertForMaskedLM, Trainer, TrainingArguments
 
 class FoodDataset(Dataset):
     def __init__(self, data_file, tokenizer, max_length=128):
@@ -10,10 +12,9 @@ class FoodDataset(Dataset):
             data = json.load(f)
         self.examples = []
         for item in data:
-            text = item["description"]
-            label = item.get("label", 0)  # Update as needed for your task
+            text = item
             encoding = tokenizer(text, truncation=True, padding='max_length', max_length=max_length)
-            encoding["label"] = label
+            encoding['labels'] = encoding['input_ids'].copy()
             self.examples.append(encoding)
 
     def __len__(self):
@@ -22,22 +23,41 @@ class FoodDataset(Dataset):
     def __getitem__(self, idx):
         return {key: torch.tensor(val) for key, val in self.examples[idx].items()}
 
+def find_largest_numbered_usda_file(directory):
+    pattern = os.path.join(directory, "usda_*.json")
+    files = glob.glob(pattern)
+    if not files:
+        raise FileNotFoundError(f"No USDA files found in {directory}")
+    
+    numbers = []
+    for f in files:
+        match = re.search(r'usda_(\d+)\.json', f)
+        if match:
+            numbers.append((int(match.group(1)), f))
+    
+    if not numbers:
+        raise ValueError(f"No valid USDA file numbers found in {directory}")
+    
+    # Return the file path with the largest number
+    return max(numbers)[1]
+
 def main():
-    # Update this path to your JSON data file
-    data_file = os.path.join(
-        os.path.dirname(__file__),
-        "..", "..", "data", "processed", "usda_food_foundation_data_filtered.json"
-    )
+    # Find the USDA files with largest numbers in train and eval directories
+    train_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "train")
+    eval_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "eval")
+    
+    data_file_train = find_largest_numbered_usda_file(train_dir)
+    data_file_eval = find_largest_numbered_usda_file(eval_dir)
+    
     tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
     
-    # Set the number of labels according to your classification task:
-    NUMBER_OF_LABELS = 2  # Example: binary classification
-    model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=NUMBER_OF_LABELS)
+    model = BertForMaskedLM.from_pretrained("bert-base-uncased")
     
-    dataset = FoodDataset(data_file, tokenizer)
+    train_dataset = FoodDataset(data_file_train, tokenizer)
+    eval_dataset = FoodDataset(data_file_eval, tokenizer)
     
     training_args = TrainingArguments(
-        output_dir="./results",
+        output_dir=os.path.join(os.path.dirname(__file__), "..", "..", "models", "finetuned"),
         num_train_epochs=3,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
@@ -50,11 +70,11 @@ def main():
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=dataset,
-        eval_dataset=dataset  # Replace with a separate eval dataset if available.
+        train_dataset=train_dataset,
+        eval_dataset=eval_dataset
     )
     
     trainer.train()
-
+    
 if __name__ == "__main__":
     main()

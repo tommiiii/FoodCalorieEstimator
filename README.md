@@ -10,7 +10,7 @@
     - Implements randomized and stratified sampling techniques to reduce bias.
   - **Data Processing:**  
     - Filters and processes raw food data for further analysis.
-    - Stores filtered data under `data/processed/`.
+    - Stores filtered data under `data/`.
   - **NLP & Embeddings:**  
     - Fine-tunes BERT to provide better domain specific embeddings.
     - Builds an embedding space using contextual representations.
@@ -31,6 +31,8 @@
   7. Launch the API (if integrated) via the modules under `src/api/`.
 
 - **Next Steps:**
+  - Consider using a different BERT to finetune
+  - Fix embedding extraction (highly dependant on previous step)
   - Enhance ingredient extraction with NER techniques.
   - Expand evaluation with separate validation datasets.
   - Implement additional sampling strategies to further reduce data bias.
