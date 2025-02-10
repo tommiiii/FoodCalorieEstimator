@@ -1,9 +1,7 @@
 import json
-import math
 import torch
 import os
-import glob
-import re
+
 import dotenv
 from torch.utils.data import Dataset
 from transformers import BertTokenizer, BertForMaskedLM, Trainer, TrainingArguments
@@ -31,14 +29,14 @@ def main():
     # Find the USDA files with largest numbers in train and eval directories
     train_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "train", os.getenv("TRAIN_FILE", "usda"))
     eval_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "eval", os.getenv("EVAL_FILE", "usda"))
-    
+
     tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-    
+
     model = BertForMaskedLM.from_pretrained("bert-base-uncased")
-    
+
     train_dataset = FoodDataset(train_dir, tokenizer)
     eval_dataset = FoodDataset(eval_dir, tokenizer)
-    
+
     training_args = TrainingArguments(
         output_dir=os.path.join(os.path.dirname(__file__), "..", "..", "models", "finetuned"),
         num_train_epochs=3,
@@ -49,16 +47,16 @@ def main():
         logging_dir='./logs',
         logging_steps=10,
     )
-    
+
     trainer = Trainer(
         model=model,
         args=training_args,
         train_dataset=train_dataset,
         eval_dataset=eval_dataset
     )
-    
+
     trainer.train()
-    
+
 if __name__ == "__main__":
     dotenv.load_dotenv()
     main()
