@@ -1,0 +1,4586 @@
+[
+  [
+    "Rice, fried, meatless",
+    174
+  ],
+  [
+    "Rice, fried, NFS",
+    174
+  ],
+  [
+    "Rice, fried, with beef",
+    178
+  ],
+  [
+    "Rice, fried, with chicken",
+    173
+  ],
+  [
+    "Rice, fried, with pork",
+    179
+  ],
+  [
+    "Rice, fried, with shrimp",
+    166
+  ],
+  [
+    "Rice, red, unenriched, dry, raw",
+    370
+  ],
+  [
+    "Rice, sweet, cooked with honey",
+    139
+  ],
+  [
+    "Rice, white and wild, cooked, fat added",
+    112
+  ],
+  [
+    "Rice, white and wild, cooked, no added fat",
+    79
+  ],
+  [
+    "Rice, white and wild, cooked, NS as to fat",
+    112
+  ],
+  [
+    "Rice, white, cooked with fat, Puerto Rican style",
+    200
+  ],
+  [
+    "Rice, white, cooked, as ingredient",
+    130
+  ],
+  [
+    "Rice, white, cooked, fat added, NS as to fat type",
+    148
+  ],
+  [
+    "Rice, white, cooked, glutinous",
+    96
+  ],
+  [
+    "Rice, white, cooked, made with butter",
+    147
+  ],
+  [
+    "Rice, white, cooked, made with margarine",
+    142
+  ],
+  [
+    "Rice, white, cooked, made with oil",
+    151
+  ],
+  [
+    "Rice, white, cooked, no added fat",
+    129
+  ],
+  [
+    "Rice, white, cooked, NS as to fat",
+    129
+  ],
+  [
+    "Rice, white, long grain, unenriched, raw",
+    370
+  ],
+  [
+    "Rice, white, with carrots and dark green vegetables, fat added",
+    124
+  ],
+  [
+    "Rice, white, with carrots and dark green vegetables, no added fat",
+    107
+  ],
+  [
+    "Rice, white, with carrots and dark green vegetables, NS as to fat",
+    124
+  ],
+  [
+    "Rice, white, with carrots and tomatoes and/or tomato-based sauce, fat added",
+    114
+  ],
+  [
+    "Rice, white, with carrots and tomatoes and/or tomato-based sauce, no added fat",
+    98
+  ],
+  [
+    "Rice, white, with carrots and tomatoes and/or tomato-based sauce, NS as to fat",
+    114
+  ],
+  [
+    "Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, fat added",
+    118
+  ],
+  [
+    "Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, no added fat",
+    101
+  ],
+  [
+    "Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, NS as to fat",
+    115
+  ],
+  [
+    "Rice, white, with carrots, fat added",
+    123
+  ],
+  [
+    "Rice, white, with carrots, no added fat",
+    106
+  ],
+  [
+    "Rice, white, with carrots, NS as to fat",
+    123
+  ],
+  [
+    "Rice, white, with cheese and/or cream based sauce, fat added",
+    166
+  ],
+  [
+    "Rice, white, with cheese and/or cream based sauce, no added fat",
+    152
+  ],
+  [
+    "Rice, white, with cheese and/or cream based sauce, NS as to fat",
+    166
+  ],
+  [
+    "Rice, white, with corn, fat added",
+    134
+  ],
+  [
+    "Rice, white, with corn, no added fat",
+    117
+  ],
+  [
+    "Rice, white, with corn, NS as to fat",
+    134
+  ],
+  [
+    "Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, fat added",
+    115
+  ],
+  [
+    "Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, no added fat",
+    99
+  ],
+  [
+    "Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, NS as to fat",
+    115
+  ],
+  [
+    "Rice, white, with dark green vegetables, fat added",
+    125
+  ],
+  [
+    "Rice, white, with dark green vegetables, no added fat",
+    107
+  ],
+  [
+    "Rice, white, with dark green vegetables, NS as to fat",
+    125
+  ],
+  [
+    "Rice, white, with gravy, fat added",
+    117
+  ],
+  [
+    "Rice, white, with gravy, no added fat",
+    102
+  ],
+  [
+    "Rice, white, with gravy, NS as to fat",
+    117
+  ],
+  [
+    "Rice, white, with lentils, fat added",
+    150
+  ],
+  [
+    "Rice, white, with lentils, no added fat",
+    115
+  ],
+  [
+    "Rice, white, with lentils, NS as to fat",
+    150
+  ],
+  [
+    "Rice, white, with other vegetables, fat added",
+    124
+  ],
+  [
+    "Rice, white, with other vegetables, no added fat",
+    107
+  ],
+  [
+    "Rice, white, with other vegetables, NS as to fat",
+    124
+  ],
+  [
+    "Rice, white, with peas and carrots, fat added",
+    128
+  ],
+  [
+    "Rice, white, with peas and carrots, no added fat",
+    111
+  ],
+  [
+    "Rice, white, with peas and carrots, NS as to fat",
+    128
+  ],
+  [
+    "Rice, white, with peas, fat added",
+    133
+  ],
+  [
+    "Rice, white, with peas, no added fat",
+    116
+  ],
+  [
+    "Rice, white, with peas, NS as to fat",
+    133
+  ],
+  [
+    "Rice, white, with soy-based sauce, fat added",
+    117
+  ],
+  [
+    "Rice, white, with soy-based sauce, no added fat",
+    101
+  ],
+  [
+    "Rice, white, with soy-based sauce, NS as to fat",
+    117
+  ],
+  [
+    "Rice, white, with tomatoes and/or tomato-based sauce, fat added",
+    107
+  ],
+  [
+    "Rice, white, with tomatoes and/or tomato-based sauce, no added fat",
+    91
+  ],
+  [
+    "Rice, white, with tomatoes and/or tomato-based sauce, NS as to fat",
+    107
+  ],
+  [
+    "Rice, white, with vegetables and gravy, fat added",
+    107
+  ],
+  [
+    "Rice, white, with vegetables and gravy, no added fat",
+    95
+  ],
+  [
+    "Rice, white, with vegetables and gravy, NS as to fat",
+    107
+  ],
+  [
+    "Rice, white, with vegetables, cheese and/or cream based sauce, fat added",
+    146
+  ],
+  [
+    "Rice, white, with vegetables, cheese and/or cream based sauce, no added fat",
+    134
+  ],
+  [
+    "Rice, white, with vegetables, cheese and/or cream based sauce, NS as to fat",
+    146
+  ],
+  [
+    "Rice, white, with vegetables, soy-based sauce, fat added",
+    106
+  ],
+  [
+    "Rice, white, with vegetables, soy-based sauce, no added fat",
+    94
+  ],
+  [
+    "Rice, white, with vegetables, soy-based sauce, NS as to fat",
+    106
+  ],
+  [
+    "Rice, wild, 100%, cooked, fat added",
+    122
+  ],
+  [
+    "Rice, wild, 100%, cooked, no added fat",
+    100
+  ],
+  [
+    "Rice, wild, 100%, cooked, NS as to fat",
+    122
+  ],
+  [
+    "Ripe plantain meat pie, Puerto Rican style",
+    315
+  ],
+  [
+    "Roast beef sandwich on wheat",
+    192
+  ],
+  [
+    "Roast beef sandwich on wheat, with cheese",
+    217
+  ],
+  [
+    "Roast beef sandwich on white",
+    194
+  ],
+  [
+    "Roast beef sandwich on white, with cheese",
+    219
+  ],
+  [
+    "Rob Roy",
+    212
+  ],
+  [
+    "Roll with meat and/or shrimp, vegetables and rice paper, not fried",
+    112
+  ],
+  [
+    "Roll, bran, NS as to type of bran",
+    263
+  ],
+  [
+    "Roll, cheese",
+    315
+  ],
+  [
+    "Roll, diet",
+    272
+  ],
+  [
+    "Roll, egg bread",
+    287
+  ],
+  [
+    "Roll, French or Vienna",
+    272
+  ],
+  [
+    "Roll, garlic",
+    309
+  ],
+  [
+    "Roll, gluten free",
+    239
+  ],
+  [
+    "Roll, hard, NS as to major flour",
+    293
+  ],
+  [
+    "Roll, Mexican, bolillo",
+    318
+  ],
+  [
+    "Roll, multigrain",
+    263
+  ],
+  [
+    "Roll, multigrain, hamburger bun",
+    263
+  ],
+  [
+    "Roll, multigrain, hot dog bun",
+    263
+  ],
+  [
+    "Roll, NS as to major flour",
+    279
+  ],
+  [
+    "Roll, oatmeal",
+    269
+  ],
+  [
+    "Roll, pumpernickel",
+    250
+  ],
+  [
+    "Roll, rye",
+    259
+  ],
+  [
+    "Roll, sour dough",
+    272
+  ],
+  [
+    "Roll, sweet, cinnamon bun, frosted",
+    452
+  ],
+  [
+    "Roll, sweet, cinnamon bun, no frosting",
+    372
+  ],
+  [
+    "Roll, sweet, frosted",
+    404
+  ],
+  [
+    "Roll, sweet, no frosting",
+    321
+  ],
+  [
+    "Roll, sweet, with fruit, frosted",
+    379
+  ],
+  [
+    "Roll, sweet, with fruit, frosted, diet",
+    452
+  ],
+  [
+    "Roll, wheat or cracked wheat",
+    273
+  ],
+  [
+    "Roll, wheat or cracked wheat, hamburger bun",
+    269
+  ],
+  [
+    "Roll, wheat or cracked wheat, hot dog bun",
+    269
+  ],
+  [
+    "Roll, white, hamburger bun",
+    267
+  ],
+  [
+    "Roll, white, hard",
+    293
+  ],
+  [
+    "Roll, white, hoagie, submarine",
+    279
+  ],
+  [
+    "Roll, white, hot dog bun",
+    267
+  ],
+  [
+    "Roll, white, soft",
+    279
+  ],
+  [
+    "Roll, whole grain white",
+    255
+  ],
+  [
+    "Roll, whole grain white, hamburger bun",
+    255
+  ],
+  [
+    "Roll, whole grain white, hot dog bun",
+    255
+  ],
+  [
+    "Roll, whole wheat",
+    273
+  ],
+  [
+    "Roll, whole wheat, hamburger bun",
+    269
+  ],
+  [
+    "Roll, whole wheat, hot dog bun",
+    269
+  ],
+  [
+    "Romaine lettuce, raw",
+    21
+  ],
+  [
+    "Rum",
+    231
+  ],
+  [
+    "Rum and cola",
+    89
+  ],
+  [
+    "Rum and diet cola",
+    60
+  ],
+  [
+    "Rum, hot buttered",
+    160
+  ],
+  [
+    "Russian dressing",
+    355
+  ],
+  [
+    "Rusty Nail",
+    244
+  ],
+  [
+    "Rutabaga, cooked",
+    63
+  ],
+  [
+    "Rutabaga, raw",
+    37
+  ],
+  [
+    "Safflower oil",
+    900
+  ],
+  [
+    "Salad dressing, fat free, NFS",
+    107
+  ],
+  [
+    "Salad dressing, light, NFS",
+    160
+  ],
+  [
+    "Salad dressing, NFS, for salads",
+    430
+  ],
+  [
+    "Salad dressing, NFS, for sandwiches",
+    594
+  ],
+  [
+    "Salami sandwich on wheat",
+    319
+  ],
+  [
+    "Salami sandwich on wheat, with cheese",
+    325
+  ],
+  [
+    "Salami sandwich on white",
+    321
+  ],
+  [
+    "Salami sandwich on white, with cheese",
+    326
+  ],
+  [
+    "Salami, made from any type of meat, reduced fat",
+    172
+  ],
+  [
+    "Salami, made from any type of meat, reduced sodium",
+    378
+  ],
+  [
+    "Salami, NFS",
+    378
+  ],
+  [
+    "Salisbury steak dinner, NFS, frozen meal",
+    146
+  ],
+  [
+    "Salisbury steak with gravy",
+    149
+  ],
+  [
+    "Salisbury steak with gravy, macaroni and cheese, frozen meal",
+    202
+  ],
+  [
+    "Salisbury steak with gravy, potatoes, vegetable, frozen meal",
+    146
+  ],
+  [
+    "Salisbury steak with gravy, whipped potatoes, vegetable, dessert, frozen meal",
+    141
+  ],
+  [
+    "Salmon cake sandwich",
+    279
+  ],
+  [
+    "Salmon salad",
+    213
+  ],
+  [
+    "Salsa verde or salsa, green",
+    38
+  ],
+  [
+    "Salsa, NFS",
+    34
+  ],
+  [
+    "Salsa, pico de gallo",
+    17
+  ],
+  [
+    "Salsa, red",
+    34
+  ],
+  [
+    "Salsa, red, homemade",
+    34
+  ],
+  [
+    "Salsify, cooked",
+    89
+  ],
+  [
+    "Salt, table, iodized",
+    0
+  ],
+  [
+    "Sambar, vegetable stew",
+    86
+  ],
+  [
+    "Samosa",
+    310
+  ],
+  [
+    "Sandwich spread",
+    389
+  ],
+  [
+    "Sandwich wrap, NFS",
+    232
+  ],
+  [
+    "Sandwich, NFS",
+    287
+  ],
+  [
+    "Sangria, red",
+    85
+  ],
+  [
+    "Sangria, white",
+    83
+  ],
+  [
+    "Sardine sandwich",
+    234
+  ],
+  [
+    "Sauce as ingredient in hamburgers",
+    272
+  ],
+  [
+    "Sauce, NFS",
+    109
+  ],
+  [
+    "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+    45.0
+  ],
+  [
+    "Sauce, salsa, ready-to-serve",
+    29.0
+  ],
+  [
+    "Sauerkraut",
+    40
+  ],
+  [
+    "Sausage and noodles with cream or white sauce",
+    153
+  ],
+  [
+    "Sausage and peppers, no sauce",
+    247
+  ],
+  [
+    "Sausage and rice with cheese sauce",
+    151
+  ],
+  [
+    "Sausage and rice with mushroom sauce",
+    142
+  ],
+  [
+    "Sausage and rice with tomato-based sauce",
+    134
+  ],
+  [
+    "Sausage and vegetables including  carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",
+    113
+  ],
+  [
+    "Sausage and vegetables, excluding carrots, broccoli, and dark-green leafy; no potatoes, tomato-based sauce",
+    120
+  ],
+  [
+    "Sausage biscuit sandwich",
+    372
+  ],
+  [
+    "Sausage biscuit sandwich, with cheese",
+    370
+  ],
+  [
+    "Sausage English muffin sandwich",
+    300
+  ],
+  [
+    "Sausage gravy",
+    180
+  ],
+  [
+    "Sausage griddle/pancake sandwich",
+    278
+  ],
+  [
+    "Sausage with tomato-based sauce",
+    234
+  ],
+  [
+    "Sausage, breakfast sausage, beef, pre-cooked, unprepared",
+    328
+  ],
+  [
+    "Sausage, Italian, pork, mild, cooked, pan-fried",
+    322
+  ],
+  [
+    "Sausage, NFS",
+    325
+  ],
+  [
+    "Sausage, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",
+    131
+  ],
+  [
+    "Sausage, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+    127
+  ],
+  [
+    "Sausage, pork, chorizo, link or ground, cooked, pan-fried",
+    346
+  ],
+  [
+    "Sausage, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+    128
+  ],
+  [
+    "Sausage, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+    128
+  ],
+  [
+    "Sausage, turkey, breakfast links, mild, raw",
+    169
+  ],
+  [
+    "Scallops, baked or broiled",
+    126
+  ],
+  [
+    "Scallops, fried",
+    217
+  ],
+  [
+    "Scallops, grilled",
+    108
+  ],
+  [
+    "Scallops, steamed or boiled",
+    87
+  ],
+  [
+    "Scone",
+    382
+  ],
+  [
+    "Scone, with fruit",
+    374
+  ],
+  [
+    "Scotch",
+    231
+  ],
+  [
+    "Scrapple, cooked",
+    227
+  ],
+  [
+    "Screwdriver",
+    92
+  ],
+  [
+    "Seabreeze",
+    92
+  ],
+  [
+    "Seafood dip",
+    337
+  ],
+  [
+    "Seafood garden salad with seafood, lettuce, eggs, tomato and/or carrots, other vegetables, no dressing",
+    62
+  ],
+  [
+    "Seafood garden salad with seafood, lettuce, eggs, vegetables excluding tomato and carrots, no dressing",
+    64
+  ],
+  [
+    "Seafood garden salad with seafood, lettuce, tomato and/or carrots, other vegetables, no dressing",
+    47
+  ],
+  [
+    "Seafood garden salad with seafood, lettuce, vegetables excluding tomato and carrots, no dressing",
+    47
+  ],
+  [
+    "Seafood paella, Puerto Rican style",
+    146
+  ],
+  [
+    "Seafood salad",
+    190
+  ],
+  [
+    "Seafood salad sandwich",
+    216
+  ],
+  [
+    "Seafood sauce",
+    203
+  ],
+  [
+    "Seafood souffle",
+    153
+  ],
+  [
+    "Seafood thermidor",
+    251
+  ],
+  [
+    "Seaweed, cooked, fat added",
+    63
+  ],
+  [
+    "Seaweed, cooked, no added fat",
+    41
+  ],
+  [
+    "Seaweed, dried",
+    298
+  ],
+  [
+    "Seaweed, pickled",
+    54
+  ],
+  [
+    "Seaweed, raw",
+    41
+  ],
+  [
+    "Seeds, pumpkin seeds (pepitas), raw",
+    555
+  ],
+  [
+    "Seeds, sunflower seed kernels, dry roasted, with salt added",
+    612
+  ],
+  [
+    "Seeds, sunflower seed, kernel, raw",
+    609
+  ],
+  [
+    "Sesame butter, creamy",
+    697
+  ],
+  [
+    "Sesame chicken",
+    293
+  ],
+  [
+    "Sesame dressing",
+    443
+  ],
+  [
+    "Sesame dressing, light",
+    102
+  ],
+  [
+    "Sesame oil",
+    884
+  ],
+  [
+    "Sesame seeds",
+    631
+  ],
+  [
+    "Seven and Seven",
+    87
+  ],
+  [
+    "Seven-layer salad, lettuce salad made with a combination of onion, celery, green pepper, peas, mayonnaise, cheese, eggs, and/or bacon",
+    229
+  ],
+  [
+    "Shellfish and noodles with tomato-based sauce",
+    135
+  ],
+  [
+    "Shellfish mixture and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, mushroom sauce",
+    117
+  ],
+  [
+    "Shellfish mixture and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",
+    122
+  ],
+  [
+    "Shellfish mixture and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, mushroom sauce",
+    111
+  ],
+  [
+    "Shellfish mixture and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",
+    120
+  ],
+  [
+    "Shellfish, NFS",
+    146
+  ],
+  [
+    "Shepherd's pie",
+    123
+  ],
+  [
+    "Sherbet, all flavors",
+    144
+  ],
+  [
+    "Shirley Temple",
+    56
+  ],
+  [
+    "Shortening, NS as to vegetable or animal",
+    884
+  ],
+  [
+    "Shrimp and noodles with cheese sauce",
+    136
+  ],
+  [
+    "Shrimp and noodles with cream or white sauce",
+    143
+  ],
+  [
+    "Shrimp and noodles with gravy",
+    131
+  ],
+  [
+    "Shrimp and noodles with mushroom sauce",
+    133
+  ],
+  [
+    "Shrimp and noodles with soy-based sauce",
+    141
+  ],
+  [
+    "Shrimp and noodles with tomato sauce",
+    134
+  ],
+  [
+    "Shrimp and noodles, no sauce",
+    146
+  ],
+  [
+    "Shrimp and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",
+    124
+  ],
+  [
+    "Shrimp and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",
+    118
+  ],
+  [
+    "Shrimp and vegetables in sauce with noodles, diet frozen meal",
+    91
+  ],
+  [
+    "Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",
+    118
+  ],
+  [
+    "Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",
+    116
+  ],
+  [
+    "Shrimp chips",
+    426
+  ],
+  [
+    "Shrimp chow mein or chop suey with noodles",
+    117
+  ],
+  [
+    "Shrimp chow mein or chop suey, no noodles",
+    69
+  ],
+  [
+    "Shrimp cocktail",
+    99
+  ],
+  [
+    "Shrimp creole, no rice",
+    124
+  ],
+  [
+    "Shrimp creole, with rice",
+    123
+  ],
+  [
+    "Shrimp egg foo yung",
+    125
+  ],
+  [
+    "Shrimp garden salad, shrimp, lettuce, eggs, tomato and/or carrots, other vegetables, no dressing",
+    65
+  ],
+  [
+    "Shrimp garden salad, shrimp, lettuce, eggs, vegetables excluding tomato and carrots, no dressing",
+    67
+  ],
+  [
+    "Shrimp gumbo",
+    61
+  ],
+  [
+    "Shrimp in garlic sauce, Puerto Rican style",
+    281
+  ],
+  [
+    "Shrimp salad",
+    196
+  ],
+  [
+    "Shrimp scampi",
+    192
+  ],
+  [
+    "Shrimp shish kabob with vegetables, excluding potatoes",
+    83
+  ],
+  [
+    "Shrimp teriyaki",
+    120
+  ],
+  [
+    "Shrimp toast",
+    222
+  ],
+  [
+    "Shrimp with crab stuffing",
+    174
+  ],
+  [
+    "Shrimp with lobster sauce",
+    151
+  ],
+  [
+    "Shrimp, baked or broiled",
+    129
+  ],
+  [
+    "Shrimp, baked or broiled, coated",
+    154
+  ],
+  [
+    "Shrimp, cake or patty",
+    218
+  ],
+  [
+    "Shrimp, canned",
+    100
+  ],
+  [
+    "Shrimp, dried",
+    250
+  ],
+  [
+    "Shrimp, fried",
+    218
+  ],
+  [
+    "Shrimp, grilled",
+    110
+  ],
+  [
+    "Shrimp, NFS",
+    146
+  ],
+  [
+    "Shrimp, steamed or boiled",
+    90
+  ],
+  [
+    "Simple syrup",
+    184
+  ],
+  [
+    "Singapore Sling",
+    93
+  ],
+  [
+    "Sloe gin fizz",
+    66
+  ],
+  [
+    "Sloppy joe sandwich, on wheat bun",
+    180
+  ],
+  [
+    "Sloppy joe sandwich, on white bun",
+    185
+  ],
+  [
+    "Sloppy joe, no bun",
+    140
+  ],
+  [
+    "Slush frozen drink",
+    28
+  ],
+  [
+    "Slush frozen drink, no sugar added",
+    11
+  ],
+  [
+    "Snack bar, oatmeal",
+    389
+  ],
+  [
+    "Snack cake, chocolate",
+    399
+  ],
+  [
+    "Snack cake, white",
+    374
+  ],
+  [
+    "Snack mix",
+    504
+  ],
+  [
+    "Snack mix, plain (Chex Mix)",
+    417
+  ],
+  [
+    "Snow cone",
+    128
+  ],
+  [
+    "Snow cone, no sugar added",
+    24
+  ],
+  [
+    "Snowpeas, fresh, cooked, fat added",
+    66
+  ],
+  [
+    "Snowpeas, fresh, cooked, no added fat",
+    44
+  ],
+  [
+    "Snowpeas, frozen, cooked, fat added",
+    73
+  ],
+  [
+    "Snowpeas, frozen, cooked, no added fat",
+    52
+  ],
+  [
+    "Snowpeas, NS as to form, cooked",
+    66
+  ],
+  [
+    "Snowpeas, raw",
+    42
+  ],
+  [
+    "Soft drink, chocolate flavored",
+    42
+  ],
+  [
+    "Soft drink, chocolate flavored, diet",
+    2
+  ],
+  [
+    "Soft drink, cola",
+    42
+  ],
+  [
+    "Soft drink, cola, chocolate flavored",
+    42
+  ],
+  [
+    "Soft drink, cola, chocolate flavored, diet",
+    2
+  ],
+  [
+    "Soft drink, cola, decaffeinated",
+    41
+  ],
+  [
+    "Soft drink, cola, decaffeinated, diet",
+    1
+  ],
+  [
+    "Soft drink, cola, diet",
+    2
+  ],
+  [
+    "Soft drink, cola, fruit or vanilla flavored",
+    42
+  ],
+  [
+    "Soft drink, cola, fruit or vanilla flavored, diet",
+    2
+  ],
+  [
+    "Soft drink, cream soda",
+    51
+  ],
+  [
+    "Soft drink, cream soda, diet",
+    0
+  ],
+  [
+    "Soft drink, fruit flavored, caffeine containing",
+    49
+  ],
+  [
+    "Soft drink, fruit flavored, caffeine containing, diet",
+    0
+  ],
+  [
+    "Soft drink, fruit flavored, caffeine free",
+    40
+  ],
+  [
+    "Soft drink, fruit flavored, diet, caffeine free",
+    0
+  ],
+  [
+    "Soft drink, ginger ale",
+    34
+  ],
+  [
+    "Soft drink, ginger ale, diet",
+    0
+  ],
+  [
+    "Soft drink, NFS",
+    42
+  ],
+  [
+    "Soft drink, NFS, diet",
+    2
+  ],
+  [
+    "Soft drink, pepper type",
+    42
+  ],
+  [
+    "Soft drink, pepper type, decaffeinated",
+    41
+  ],
+  [
+    "Soft drink, pepper type, decaffeinated, diet",
+    1
+  ],
+  [
+    "Soft drink, pepper type, diet",
+    2
+  ],
+  [
+    "Soft drink, root beer",
+    41
+  ],
+  [
+    "Soft drink, root beer, diet",
+    0
+  ],
+  [
+    "Soft serve, blended with candy or cookies, from fast food",
+    176
+  ],
+  [
+    "Sopaipilla with syrup or honey",
+    361
+  ],
+  [
+    "Sopaipilla, without syrup or honey",
+    367
+  ],
+  [
+    "Sorbet",
+    110
+  ],
+  [
+    "Sorghum bran, white, unenriched, dry, raw",
+    403
+  ],
+  [
+    "Sorghum flour, white, pearled, unenriched, dry, raw",
+    364
+  ],
+  [
+    "Sorghum grain, white, pearled, unenriched, dry, raw",
+    370
+  ],
+  [
+    "Sorghum, whole grain, white, dry, raw",
+    373
+  ],
+  [
+    "Soup, barley",
+    58
+  ],
+  [
+    "Soup, bean",
+    67
+  ],
+  [
+    "Soup, bean, canned",
+    47
+  ],
+  [
+    "Soup, bean, canned, reduced sodium",
+    47
+  ],
+  [
+    "Soup, bean, with meat",
+    84
+  ],
+  [
+    "Soup, beef",
+    47
+  ],
+  [
+    "Soup, beef, canned",
+    37
+  ],
+  [
+    "Soup, bisque",
+    75
+  ],
+  [
+    "Soup, borscht",
+    20
+  ],
+  [
+    "Soup, bouillabaisse",
+    67
+  ],
+  [
+    "Soup, broccoli cheese",
+    82
+  ],
+  [
+    "Soup, broth",
+    6
+  ],
+  [
+    "Soup, chicken",
+    40
+  ],
+  [
+    "Soup, chicken noodle",
+    53
+  ],
+  [
+    "Soup, chicken noodle, canned",
+    42
+  ],
+  [
+    "Soup, chicken, canned",
+    33
+  ],
+  [
+    "Soup, chicken, canned, reduced sodium",
+    34
+  ],
+  [
+    "Soup, cream of chicken",
+    91
+  ],
+  [
+    "Soup, cream of mushroom",
+    74
+  ],
+  [
+    "Soup, cream of tomato",
+    70
+  ],
+  [
+    "Soup, cream of vegetable",
+    78
+  ],
+  [
+    "Soup, egg drop",
+    27
+  ],
+  [
+    "Soup, fish or shrimp",
+    30
+  ],
+  [
+    "Soup, French onion",
+    108
+  ],
+  [
+    "Soup, fruit",
+    30
+  ],
+  [
+    "Soup, gazpacho",
+    26
+  ],
+  [
+    "Soup, hot and sour",
+    39
+  ],
+  [
+    "Soup, Italian wedding",
+    66
+  ],
+  [
+    "Soup, lentil",
+    60
+  ],
+  [
+    "Soup, lentil, canned",
+    43
+  ],
+  [
+    "Soup, lentil, canned, reduced sodium",
+    43
+  ],
+  [
+    "Soup, lentil, with meat",
+    78
+  ],
+  [
+    "Soup, Manhattan clam chowder",
+    35
+  ],
+  [
+    "Soup, Matzo ball",
+    73
+  ],
+  [
+    "Soup, meatball",
+    52
+  ],
+  [
+    "Soup, minestrone",
+    40
+  ],
+  [
+    "Soup, miso or tofu",
+    24
+  ],
+  [
+    "Soup, mulligatawany",
+    48
+  ],
+  [
+    "Soup, New England clam chowder",
+    93
+  ],
+  [
+    "Soup, NFS",
+    49
+  ],
+  [
+    "Soup, noodle, NFS",
+    90
+  ],
+  [
+    "Soup, peanut",
+    88
+  ],
+  [
+    "Soup, pepperpot",
+    91
+  ],
+  [
+    "Soup, pho, no meat",
+    37
+  ],
+  [
+    "Soup, pho, with meat",
+    77
+  ],
+  [
+    "Soup, pork or ham",
+    48
+  ],
+  [
+    "Soup, potato",
+    90
+  ],
+  [
+    "Soup, potato with meat",
+    109
+  ],
+  [
+    "Soup, pozole",
+    43
+  ],
+  [
+    "Soup, pumpkin",
+    72
+  ],
+  [
+    "Soup, ramen noodles, water added",
+    66
+  ],
+  [
+    "Soup, rice",
+    51
+  ],
+  [
+    "Soup, seaweed",
+    37
+  ],
+  [
+    "Soup, sopa de fideo aguada",
+    95
+  ],
+  [
+    "Soup, sopa or caldo de pollo",
+    55
+  ],
+  [
+    "Soup, sopa or caldo de res",
+    71
+  ],
+  [
+    "Soup, split pea",
+    61
+  ],
+  [
+    "Soup, split pea, with meat",
+    80
+  ],
+  [
+    "Soup, tomato",
+    19
+  ],
+  [
+    "Soup, tomato, canned",
+    34
+  ],
+  [
+    "Soup, tomato, canned / carton, reduced sodium",
+    35
+  ],
+  [
+    "Soup, tortilla",
+    102
+  ],
+  [
+    "Soup, vegetable",
+    27
+  ],
+  [
+    "Soup, vegetable, canned",
+    38
+  ],
+  [
+    "Soup, vegetable, canned, reduced sodium",
+    38
+  ],
+  [
+    "Soup, vegetable, with meat",
+    44
+  ],
+  [
+    "Soup, wonton",
+    33
+  ],
+  [
+    "Soupy rice mixture with chicken and potatoes, Puerto Rican style",
+    112
+  ],
+  [
+    "Soupy rice with chicken, Puerto Rican style",
+    151
+  ],
+  [
+    "Sour cream, fat free",
+    74
+  ],
+  [
+    "Sour cream, imitation",
+    208
+  ],
+  [
+    "Sour cream, light",
+    136
+  ],
+  [
+    "Sour cream, regular",
+    196
+  ],
+  [
+    "Soursop, nectar",
+    59
+  ],
+  [
+    "Soy based sauce, for use with vegetables",
+    89
+  ],
+  [
+    "Soy chips",
+    385
+  ],
+  [
+    "Soy milk, chocolate",
+    64
+  ],
+  [
+    "Soy milk, sweetened",
+    53
+  ],
+  [
+    "Soy milk, sweetened, plain, refrigerated",
+    40.7
+  ],
+  [
+    "Soy milk, unsweetened",
+    38
+  ],
+  [
+    "Soy milk, unsweetened, plain, shelf stable",
+    38.5
+  ],
+  [
+    "Soy nut butter",
+    613
+  ],
+  [
+    "Soy nuts",
+    469
+  ],
+  [
+    "Soy sauce",
+    53
+  ],
+  [
+    "Soy sauce, reduced sodium",
+    57
+  ],
+  [
+    "Soybean curd",
+    61
+  ],
+  [
+    "Soybean curd cheese",
+    151
+  ],
+  [
+    "Soybean curd, breaded, fried",
+    150
+  ],
+  [
+    "Soybean curd, deep fried",
+    270
+  ],
+  [
+    "Soybean oil",
+    900
+  ],
+  [
+    "Soybeans, cooked",
+    218
+  ],
+  [
+    "Spaghetti and meatballs dinner, NFS, frozen meal",
+    113
+  ],
+  [
+    "Spaghetti sauce",
+    51
+  ],
+  [
+    "Spaghetti sauce with added vegetables",
+    46
+  ],
+  [
+    "Spaghetti sauce with meat",
+    90
+  ],
+  [
+    "Spaghetti sauce with meat and added vegetables",
+    86
+  ],
+  [
+    "Spaghetti sauce with poultry",
+    75
+  ],
+  [
+    "Spaghetti sauce with poultry and added vegetables",
+    71
+  ],
+  [
+    "Spaghetti sauce with seafood",
+    64
+  ],
+  [
+    "Spaghetti sauce with seafood and added vegetables",
+    60
+  ],
+  [
+    "Spaghetti sauce, fat free",
+    24
+  ],
+  [
+    "Spaghetti sauce, reduced sodium",
+    51
+  ],
+  [
+    "Spaghetti squash, cooked",
+    49
+  ],
+  [
+    "Spaghetti with meat sauce, diet frozen meal",
+    113
+  ],
+  [
+    "Spam",
+    315
+  ],
+  [
+    "Spam sandwich",
+    266
+  ],
+  [
+    "Spam, reduced sodium",
+    293
+  ],
+  [
+    "Spanakopita",
+    212
+  ],
+  [
+    "Spanish rice with ground beef",
+    163
+  ],
+  [
+    "Spanish rice, fat added",
+    115
+  ],
+  [
+    "Spanish rice, from restaurant",
+    185
+  ],
+  [
+    "Spanish rice, no added fat",
+    101
+  ],
+  [
+    "Spanish rice, NS as to fat",
+    115
+  ],
+  [
+    "Spinach and artichoke dip",
+    329
+  ],
+  [
+    "Spinach and cheese casserole",
+    130
+  ],
+  [
+    "Spinach dip, light",
+    165
+  ],
+  [
+    "Spinach dip, regular",
+    345
+  ],
+  [
+    "Spinach dip, yogurt based",
+    159
+  ],
+  [
+    "Spinach quiche, meatless",
+    299
+  ],
+  [
+    "Spinach salad, no dressing",
+    84
+  ],
+  [
+    "Spinach souffle",
+    128
+  ],
+  [
+    "Spinach, baby",
+    26.6
+  ],
+  [
+    "Spinach, canned, cooked with butter or margarine",
+    42
+  ],
+  [
+    "Spinach, canned, cooked with oil",
+    49
+  ],
+  [
+    "Spinach, canned, cooked, fat added, NS as to fat type",
+    45
+  ],
+  [
+    "Spinach, canned, cooked, no added fat",
+    23
+  ],
+  [
+    "Spinach, cooked, as ingredient",
+    33
+  ],
+  [
+    "Spinach, creamed",
+    90
+  ],
+  [
+    "Spinach, for use on a sandwich",
+    27
+  ],
+  [
+    "Spinach, fresh, cooked with butter or margarine",
+    55
+  ],
+  [
+    "Spinach, fresh, cooked with oil",
+    63
+  ],
+  [
+    "Spinach, fresh, cooked, fat added, NS as to fat type",
+    59
+  ],
+  [
+    "Spinach, fresh, cooked, no added fat",
+    33
+  ],
+  [
+    "Spinach, frozen, cooked with butter or margarine",
+    53
+  ],
+  [
+    "Spinach, frozen, cooked with oil",
+    59
+  ],
+  [
+    "Spinach, frozen, cooked, fat added, NS as to fat type",
+    56
+  ],
+  [
+    "Spinach, frozen, cooked, no added fat",
+    34
+  ],
+  [
+    "Spinach, mature",
+    27.6
+  ],
+  [
+    "Spinach, NS as to form, cooked",
+    59
+  ],
+  [
+    "Spinach, raw",
+    27
+  ],
+  [
+    "Split peas, from dried, fat added",
+    168
+  ],
+  [
+    "Split peas, from dried, no added fat",
+    117
+  ],
+  [
+    "Spoonbread",
+    166
+  ],
+  [
+    "Sports drink (Gatorade G)",
+    26
+  ],
+  [
+    "Sports drink (Powerade)",
+    32
+  ],
+  [
+    "Sports drink, dry concentrate, not reconstituted",
+    380
+  ],
+  [
+    "Sports drink, low calorie",
+    8
+  ],
+  [
+    "Sports drink, low calorie (Gatorade G2)",
+    8
+  ],
+  [
+    "Sports drink, low calorie (Powerade Zero)",
+    0
+  ],
+  [
+    "Sports drink, NFS",
+    26
+  ],
+  [
+    "Sprouts, NFS",
+    30
+  ],
+  [
+    "Squash, summer, casserole with tomato and cheese",
+    85
+  ],
+  [
+    "Squash, summer, casserole, with cheese sauce",
+    92
+  ],
+  [
+    "Squash, summer, casserole, with rice and tomato sauce",
+    83
+  ],
+  [
+    "Squash, summer, green, zucchini, includes skin, raw",
+    0
+  ],
+  [
+    "Squash, summer, souffle",
+    125
+  ],
+  [
+    "Squash, summer, yellow, includes skin, raw",
+    0
+  ],
+  [
+    "Squash, winter, acorn, raw",
+    48.6
+  ],
+  [
+    "Squash, winter, butternut, raw",
+    48.1
+  ],
+  [
+    "Squash, winter, souffle",
+    78
+  ],
+  [
+    "Squirrel",
+    172
+  ],
+  [
+    "Starfruit, raw",
+    31
+  ],
+  [
+    "Steak sandwich or sub on wheat",
+    247
+  ],
+  [
+    "Steak sandwich or sub on white",
+    249
+  ],
+  [
+    "Steak sauce",
+    95
+  ],
+  [
+    "Steak tartare",
+    216
+  ],
+  [
+    "Steak teriyaki",
+    198
+  ],
+  [
+    "Steak, NS as to type of meat, NS as to fat eaten",
+    230
+  ],
+  [
+    "Stew, beef",
+    107
+  ],
+  [
+    "Stew, beef, canned",
+    100
+  ],
+  [
+    "Stew, beef, with pasta",
+    132
+  ],
+  [
+    "Stew, chicken",
+    84
+  ],
+  [
+    "Stew, chicken, with pasta",
+    108
+  ],
+  [
+    "Stew, fish",
+    46
+  ],
+  [
+    "Stew, lamb",
+    117
+  ],
+  [
+    "Stew, NFS",
+    99
+  ],
+  [
+    "Stew, pork",
+    109
+  ],
+  [
+    "Stew, pork, with pasta",
+    133
+  ],
+  [
+    "Stew, vegetable",
+    47
+  ],
+  [
+    "Stewed chicken with tomato-based sauce, Mexican style",
+    120
+  ],
+  [
+    "Stewed chitterlings, Puerto Rican style",
+    214
+  ],
+  [
+    "Stewed dried beef, Puerto Rican style",
+    258
+  ],
+  [
+    "Stewed gizzards, Puerto Rican style",
+    179
+  ],
+  [
+    "Stewed goat, Puerto Rican style",
+    265
+  ],
+  [
+    "Stewed pig's feet, Puerto Rican style",
+    136
+  ],
+  [
+    "Stewed pork, Puerto Rican style",
+    200
+  ],
+  [
+    "Stewed potatoes",
+    103
+  ],
+  [
+    "Stewed potatoes with tomatoes",
+    87
+  ],
+  [
+    "Stewed potatoes, Puerto Rican style",
+    115
+  ],
+  [
+    "Stewed rabbit, Puerto Rican style,",
+    214
+  ],
+  [
+    "Stewed rice, Puerto Rican style",
+    224
+  ],
+  [
+    "Stewed salmon, Puerto Rican style",
+    146
+  ],
+  [
+    "Stewed seasoned ground beef, Mexican style",
+    169
+  ],
+  [
+    "Stewed seasoned ground beef, Puerto Rican style",
+    278
+  ],
+  [
+    "Stewed tripe, with potatoes, Puerto Rican style",
+    109
+  ],
+  [
+    "Stewed, seasoned, ground beef and pork with potatoes, Mexican style",
+    143
+  ],
+  [
+    "Stewed, seasoned, ground beef and pork, Mexican style",
+    139
+  ],
+  [
+    "Stewed, seasoned, ground beef with potatoes, Mexican style",
+    137
+  ],
+  [
+    "Stir fried beef and vegetables in soy sauce",
+    102
+  ],
+  [
+    "Strawberries, canned",
+    92
+  ],
+  [
+    "Strawberries, frozen",
+    35
+  ],
+  [
+    "Strawberries, raw",
+    36.4
+  ],
+  [
+    "Strawberries, raw",
+    36
+  ],
+  [
+    "Strawberry beverage powder, dry mix, not reconstituted",
+    389
+  ],
+  [
+    "Strawberry drink syrup",
+    261
+  ],
+  [
+    "Strawberry juice, 100%",
+    23
+  ],
+  [
+    "Strawberry milk, fat free  (skim)",
+    61
+  ],
+  [
+    "Strawberry milk, low fat (1%)",
+    69
+  ],
+  [
+    "Strawberry milk, NFS",
+    65
+  ],
+  [
+    "Strawberry milk, reduced fat (2%)",
+    71
+  ],
+  [
+    "Strawberry milk, reduced sugar",
+    59
+  ],
+  [
+    "Strawberry milk, whole",
+    86
+  ],
+  [
+    "Strudel, apple",
+    281
+  ],
+  [
+    "Strudel, berry",
+    291
+  ],
+  [
+    "Strudel, cheese",
+    358
+  ],
+  [
+    "Strudel, cherry",
+    296
+  ],
+  [
+    "Strudel, peach",
+    281
+  ],
+  [
+    "Stuffed cabbage rolls with beef and rice",
+    114
+  ],
+  [
+    "Stuffed cabbage, with meat and rice, Syrian dish, Puerto Rican style",
+    84
+  ],
+  [
+    "Stuffed cabbage, with meat, Puerto Rican style",
+    207
+  ],
+  [
+    "Stuffed chicken, drumstick or breast, Puerto Rican style",
+    236
+  ],
+  [
+    "Stuffed grape leaves with beef and rice",
+    228
+  ],
+  [
+    "Stuffed grape leaves with lamb and rice",
+    271
+  ],
+  [
+    "Stuffed green pepper, Puerto Rican style",
+    152
+  ],
+  [
+    "Stuffed jalapeno pepper",
+    241
+  ],
+  [
+    "Sugar substitute, stevia, powder",
+    0
+  ],
+  [
+    "Sugar substitute, sucralose, powder",
+    336
+  ],
+  [
+    "Sugar, brown",
+    380
+  ],
+  [
+    "Sugar, cinnamon",
+    390
+  ],
+  [
+    "Sugar, NFS",
+    401
+  ],
+  [
+    "Sugar, white, confectioner's, powdered",
+    389
+  ],
+  [
+    "Sugar, white, granulated or lump",
+    401
+  ],
+  [
+    "Sugars, granulated",
+    385
+  ],
+  [
+    "Summer squash, cooked, as ingredient",
+    21
+  ],
+  [
+    "Summer squash, green, raw",
+    17
+  ],
+  [
+    "Summer squash, yellow or green, canned, cooked, fat added, NS as to fat type",
+    35
+  ],
+  [
+    "Summer squash, yellow or green, fresh, cooked with butter or margarine",
+    44
+  ],
+  [
+    "Summer squash, yellow or green, fresh, cooked with oil",
+    51
+  ],
+  [
+    "Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",
+    47
+  ],
+  [
+    "Summer squash, yellow or green, fresh, cooked, no added fat",
+    21
+  ],
+  [
+    "Summer squash, yellow or green, frozen, cooked with butter or margarine",
+    40
+  ],
+  [
+    "Summer squash, yellow or green, frozen, cooked with oil",
+    46
+  ],
+  [
+    "Summer squash, yellow or green, frozen, cooked, fat added, NS as to fat type",
+    43
+  ],
+  [
+    "Summer squash, yellow or green, frozen, cooked, no added fat",
+    21
+  ],
+  [
+    "Summer squash, yellow or green, NS as to form, cooked",
+    47
+  ],
+  [
+    "Summer squash, yellow, raw",
+    19
+  ],
+  [
+    "Sun-dried tomatoes",
+    258
+  ],
+  [
+    "Sunflower oil",
+    900
+  ],
+  [
+    "Sunflower seeds, flavored",
+    567
+  ],
+  [
+    "Sunflower seeds, NFS",
+    582
+  ],
+  [
+    "Sunflower seeds, plain, salted",
+    575
+  ],
+  [
+    "Sunflower seeds, plain, unsalted",
+    582
+  ],
+  [
+    "Sushi roll tuna",
+    97
+  ],
+  [
+    "Sushi roll, avocado",
+    93
+  ],
+  [
+    "Sushi roll, California",
+    94
+  ],
+  [
+    "Sushi roll, eel",
+    116
+  ],
+  [
+    "Sushi roll, salmon",
+    103
+  ],
+  [
+    "Sushi roll, shrimp",
+    100
+  ],
+  [
+    "Sushi roll, vegetable",
+    93
+  ],
+  [
+    "Sushi, NFS",
+    94
+  ],
+  [
+    "Sushi, topped with crab",
+    95
+  ],
+  [
+    "Sushi, topped with eel",
+    126
+  ],
+  [
+    "Sushi, topped with egg",
+    119
+  ],
+  [
+    "Sushi, topped with salmon",
+    107
+  ],
+  [
+    "Sushi, topped with shrimp",
+    103
+  ],
+  [
+    "Sushi, topped with tuna",
+    100
+  ],
+  [
+    "Swedish meatballs with cream or white sauce",
+    170
+  ],
+  [
+    "Sweet and sour chicken or turkey",
+    250
+  ],
+  [
+    "Sweet and sour chicken or turkey, without vegetables",
+    250
+  ],
+  [
+    "Sweet and sour pork",
+    260
+  ],
+  [
+    "Sweet and sour pork with rice",
+    187
+  ],
+  [
+    "Sweet and sour sauce",
+    154
+  ],
+  [
+    "Sweet and sour shrimp",
+    172
+  ],
+  [
+    "Sweet potato chips",
+    529
+  ],
+  [
+    "Sweet potato fries, fast food / restaurant",
+    305
+  ],
+  [
+    "Sweet potato fries, from fresh",
+    156
+  ],
+  [
+    "Sweet potato fries, frozen",
+    192
+  ],
+  [
+    "Sweet potato fries, NFS",
+    192
+  ],
+  [
+    "Sweet potato fries, school",
+    192
+  ],
+  [
+    "Sweet potato paste",
+    305
+  ],
+  [
+    "Sweet potato tots",
+    191
+  ],
+  [
+    "Sweet potato tots, fast food / restaurant",
+    240
+  ],
+  [
+    "Sweet potato tots, school",
+    192
+  ],
+  [
+    "Sweet potato, baked, fat added",
+    115
+  ],
+  [
+    "Sweet potato, baked, no added fat",
+    82
+  ],
+  [
+    "Sweet potato, baked, NS as to fat",
+    115
+  ],
+  [
+    "Sweet potato, boiled, fat added",
+    115
+  ],
+  [
+    "Sweet potato, boiled, no added fat",
+    82
+  ],
+  [
+    "Sweet potato, boiled, NS as to fat",
+    115
+  ],
+  [
+    "Sweet potato, candied",
+    187
+  ],
+  [
+    "Sweet potato, canned, fat added",
+    124
+  ],
+  [
+    "Sweet potato, canned, no added fat",
+    91
+  ],
+  [
+    "Sweet potato, canned, NS as to fat",
+    124
+  ],
+  [
+    "Sweet potato, casserole or mashed",
+    99
+  ],
+  [
+    "Sweet potato, cooked, as ingredient",
+    82
+  ],
+  [
+    "Sweet potato, NFS",
+    115
+  ],
+  [
+    "Sweet potato, squash, pumpkin, chrysanthemum, or bean leaves, cooked",
+    57
+  ],
+  [
+    "Sweet potatoes, orange flesh, without skin, raw",
+    79.0
+  ],
+  [
+    "Sweetbreads",
+    124
+  ],
+  [
+    "Swiss steak",
+    115
+  ],
+  [
+    "Swiss steak, with gravy, meatless",
+    180
+  ],
+  [
+    "Syrup, NFS",
+    265
+  ],
+  [
+    "Szechuan beef",
+    105
+  ],
+  [
+    "Tabbouleh",
+    127
+  ],
+  [
+    "Table fat, NFS",
+    677
+  ],
+  [
+    "Taco or tostada salad with chicken",
+    167
+  ],
+  [
+    "Taco or tostada salad with chicken and sour cream",
+    171
+  ],
+  [
+    "Taco or tostada salad with meat",
+    179
+  ],
+  [
+    "Taco or tostada salad with meat and sour cream",
+    181
+  ],
+  [
+    "Taco or tostada salad, meatless",
+    163
+  ],
+  [
+    "Taco or tostada salad, meatless with sour cream",
+    167
+  ],
+  [
+    "Taco sauce",
+    11
+  ],
+  [
+    "Taco shell, corn",
+    476
+  ],
+  [
+    "Taco shell, flour",
+    511
+  ],
+  [
+    "Taco, cheese only",
+    275
+  ],
+  [
+    "Taco, corn tortilla, beef, cheese",
+    249
+  ],
+  [
+    "Taco, corn tortilla, beef, with beans, cheese",
+    212
+  ],
+  [
+    "Taco, corn tortilla, chicken, cheese",
+    211
+  ],
+  [
+    "Taco, corn tortilla, chicken, with beans, cheese",
+    193
+  ],
+  [
+    "Taco, corn tortilla, pork, cheese",
+    251
+  ],
+  [
+    "Taco, corn tortilla, pork, with beans, cheese",
+    214
+  ],
+  [
+    "Taco, corn tortilla, with beans, cheese",
+    176
+  ],
+  [
+    "Taco, fish",
+    275
+  ],
+  [
+    "Taco, flour tortilla, beef, cheese",
+    257
+  ],
+  [
+    "Taco, flour tortilla, beef, with beans, cheese",
+    221
+  ],
+  [
+    "Taco, flour tortilla, chicken, cheese",
+    220
+  ],
+  [
+    "Taco, flour tortilla, chicken, with beans, cheese",
+    202
+  ],
+  [
+    "Taco, flour tortilla, pork, cheese",
+    260
+  ],
+  [
+    "Taco, flour tortilla, pork, with beans, cheese",
+    222
+  ],
+  [
+    "Taco, flour tortilla, with beans, cheese",
+    184
+  ],
+  [
+    "Taco, meat, no cheese",
+    243
+  ],
+  [
+    "Taco, meat, with beans, no cheese",
+    205
+  ],
+  [
+    "Taco, NFS",
+    246
+  ],
+  [
+    "Taco, with beans, no cheese",
+    167
+  ],
+  [
+    "Tahini",
+    697
+  ],
+  [
+    "Tamale casserole with meat",
+    174
+  ],
+  [
+    "Tamale, beef",
+    174
+  ],
+  [
+    "Tamale, chicken",
+    174
+  ],
+  [
+    "Tamale, NFS",
+    174
+  ],
+  [
+    "Tamale, no meat",
+    186
+  ],
+  [
+    "Tamale, pork",
+    174
+  ],
+  [
+    "Tamale, sweet",
+    259
+  ],
+  [
+    "Tamarind",
+    239
+  ],
+  [
+    "Tamarind drink",
+    109
+  ],
+  [
+    "Tangerine juice, 100%",
+    43
+  ],
+  [
+    "Tangerine, raw",
+    53
+  ],
+  [
+    "Taquito, beef or pork",
+    287
+  ],
+  [
+    "Taquito, cheese only",
+    309
+  ],
+  [
+    "Taquito, chicken",
+    269
+  ],
+  [
+    "Taquito, egg",
+    281
+  ],
+  [
+    "Taro chips",
+    498
+  ],
+  [
+    "Taro leaves, cooked",
+    68
+  ],
+  [
+    "Taro, cooked",
+    141
+  ],
+  [
+    "Tart, all types",
+    316
+  ],
+  [
+    "Tartar sauce",
+    211
+  ],
+  [
+    "Tea, bubble",
+    55
+  ],
+  [
+    "Tea, ginger",
+    1
+  ],
+  [
+    "Tea, hot, chamomile",
+    1
+  ],
+  [
+    "Tea, hot, herbal",
+    1
+  ],
+  [
+    "Tea, hot, hibiscus",
+    0
+  ],
+  [
+    "Tea, hot, leaf, black",
+    1
+  ],
+  [
+    "Tea, hot, leaf, black, decaffeinated",
+    1
+  ],
+  [
+    "Tea, hot, leaf, green",
+    1
+  ],
+  [
+    "Tea, hot, leaf, green, decaffeinated",
+    0
+  ],
+  [
+    "Tea, hot, leaf, oolong",
+    1
+  ],
+  [
+    "Tea, hot, with milk",
+    51
+  ],
+  [
+    "Tea, iced, bottled, black",
+    45
+  ],
+  [
+    "Tea, iced, bottled, black, decaffeinated",
+    38
+  ],
+  [
+    "Tea, iced, bottled, black, decaffeinated, diet",
+    0
+  ],
+  [
+    "Tea, iced, bottled, black, decaffeinated, unsweetened",
+    1
+  ],
+  [
+    "Tea, iced, bottled, black, diet",
+    1
+  ],
+  [
+    "Tea, iced, bottled, black, unsweetened",
+    0
+  ],
+  [
+    "Tea, iced, bottled, green",
+    27
+  ],
+  [
+    "Tea, iced, bottled, green, diet",
+    4
+  ],
+  [
+    "Tea, iced, bottled, green, unsweetened",
+    0
+  ],
+  [
+    "Tea, iced, brewed, black, decaffeinated, pre-sweetened with low calorie sweetener",
+    2
+  ],
+  [
+    "Tea, iced, brewed, black, decaffeinated, pre-sweetened with sugar",
+    32
+  ],
+  [
+    "Tea, iced, brewed, black, decaffeinated, unsweetened",
+    1
+  ],
+  [
+    "Tea, iced, brewed, black, pre-sweetened with low calorie sweetener",
+    2
+  ],
+  [
+    "Tea, iced, brewed, black, pre-sweetened with sugar",
+    32
+  ],
+  [
+    "Tea, iced, brewed, black, unsweetened",
+    1
+  ],
+  [
+    "Tea, iced, brewed, green, decaffeinated, pre-sweetened with low calorie sweetener",
+    1
+  ],
+  [
+    "Tea, iced, brewed, green, decaffeinated, pre-sweetened with sugar",
+    31
+  ],
+  [
+    "Tea, iced, brewed, green, decaffeinated, unsweetened",
+    0
+  ],
+  [
+    "Tea, iced, brewed, green, pre-sweetened with low calorie sweetener",
+    2
+  ],
+  [
+    "Tea, iced, brewed, green, pre-sweetened with sugar",
+    32
+  ],
+  [
+    "Tea, iced, brewed, green, unsweetened",
+    1
+  ],
+  [
+    "Tea, iced, instant, black, decaffeinated, pre-sweetened with low calorie sweetener",
+    3
+  ],
+  [
+    "Tea, iced, instant, black, decaffeinated, pre-sweetened with sugar",
+    32
+  ],
+  [
+    "Tea, iced, instant, black, decaffeinated, unsweetened",
+    1
+  ],
+  [
+    "Tea, iced, instant, black, pre-sweetened with low calorie sweetener",
+    2
+  ],
+  [
+    "Tea, iced, instant, black, pre-sweetened with sugar",
+    30
+  ],
+  [
+    "Tea, iced, instant, black, pre-sweetened, dry",
+    401
+  ],
+  [
+    "Tea, iced, instant, black, unsweetened",
+    1
+  ],
+  [
+    "Tea, iced, instant, black, unsweetened, dry",
+    315
+  ],
+  [
+    "Tea, iced, instant, green, pre-sweetened with low calorie sweetener",
+    4
+  ],
+  [
+    "Tea, iced, instant, green, pre-sweetened with sugar",
+    27
+  ],
+  [
+    "Tea, iced, instant, green, unsweetened",
+    0
+  ],
+  [
+    "Tea, kombucha",
+    16
+  ],
+  [
+    "Tequila",
+    231
+  ],
+  [
+    "Tequila Sunrise",
+    111
+  ],
+  [
+    "Teriyaki chicken with rice and vegetable, diet frozen meal",
+    126
+  ],
+  [
+    "Teriyaki sauce",
+    89
+  ],
+  [
+    "Teriyaki sauce, reduced sodium",
+    89
+  ],
+  [
+    "Textured vegetable protein, dry",
+    366
+  ],
+  [
+    "Thousand Island dressing",
+    379
+  ],
+  [
+    "Thousand Island dressing, fat free",
+    132
+  ],
+  [
+    "Thousand Island dressing, light",
+    195
+  ],
+  [
+    "Thuringer",
+    362
+  ],
+  [
+    "Tiramisu",
+    353
+  ],
+  [
+    "Toddler formula, Enfamil Enfagrow",
+    67
+  ],
+  [
+    "Toddler formula, Gerber Good Start, Stage 3",
+    62
+  ],
+  [
+    "Toddler formula, Nido Kinder",
+    62
+  ],
+  [
+    "Toddler formula, PediaSure",
+    99
+  ],
+  [
+    "Toddler formula, Similac Go and Grow",
+    58
+  ],
+  [
+    "Toddler formula, store brand, beginning or next stage",
+    62
+  ],
+  [
+    "Toddler formula, store brand, pediatric shake",
+    99
+  ],
+  [
+    "Toddler meal, meat and vegetables",
+    77
+  ],
+  [
+    "Toddler meal, NFS",
+    85
+  ],
+  [
+    "Toddler meal, pasta",
+    101
+  ],
+  [
+    "Toddler meal, pasta and vegetables",
+    78
+  ],
+  [
+    "Toddler meal, rice and vegetables",
+    83
+  ],
+  [
+    "Tofu and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, with soy-based sauce",
+    93
+  ],
+  [
+    "Tofu and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, with soy-based sauce",
+    92
+  ],
+  [
+    "Tom Collins",
+    123
+  ],
+  [
+    "Tomato and cucumber salad made with tomato, cucumber, oil, and vinegar",
+    122
+  ],
+  [
+    "Tomato and vegetable juice, 100%",
+    22
+  ],
+  [
+    "Tomato and vegetable juice, 100%, low sodium",
+    22
+  ],
+  [
+    "Tomato chili sauce",
+    92
+  ],
+  [
+    "Tomato juice cocktail",
+    22
+  ],
+  [
+    "Tomato juice, 100%",
+    23
+  ],
+  [
+    "Tomato juice, 100%, low sodium",
+    23
+  ],
+  [
+    "Tomato juice, with added ingredients, from concentrate, shelf stable",
+    23.3
+  ],
+  [
+    "Tomato sandwich on wheat",
+    199
+  ],
+  [
+    "Tomato sandwich on white",
+    201
+  ],
+  [
+    "Tomato sauce, for use with vegetables",
+    104
+  ],
+  [
+    "Tomato, green, pickled",
+    40
+  ],
+  [
+    "Tomato, paste, canned, without salt added",
+    104
+  ],
+  [
+    "Tomato, puree, canned",
+    40.8
+  ],
+  [
+    "Tomato, roma",
+    22.0
+  ],
+  [
+    "Tomato, sauce, canned, with salt added",
+    34.2
+  ],
+  [
+    "Tomatoes as ingredient in omelet",
+    25
+  ],
+  [
+    "Tomatoes, canned, cooked",
+    43
+  ],
+  [
+    "Tomatoes, canned, red, ripe, diced",
+    18.0
+  ],
+  [
+    "Tomatoes, canned, reduced sodium, cooked",
+    39
+  ],
+  [
+    "Tomatoes, cooked, as ingredient",
+    22
+  ],
+  [
+    "Tomatoes, crushed, canned",
+    37.9
+  ],
+  [
+    "Tomatoes, for use on a sandwich",
+    20
+  ],
+  [
+    "Tomatoes, fresh, cooked",
+    50
+  ],
+  [
+    "Tomatoes, grape, raw",
+    27.0
+  ],
+  [
+    "Tomatoes, NS as to form, cooked",
+    50
+  ],
+  [
+    "Tomatoes, raw",
+    20
+  ],
+  [
+    "Tomatoes, scalloped",
+    110
+  ],
+  [
+    "Tomatoes, whole, canned, solids and liquids, with salt added",
+    22.5
+  ],
+  [
+    "Tongue",
+    282
+  ],
+  [
+    "Tongue pot roast, Puerto Rican style",
+    317
+  ],
+  [
+    "Topping from cheese pizza",
+    230
+  ],
+  [
+    "Topping from meat and vegetable pizza",
+    299
+  ],
+  [
+    "Topping from meat pizza",
+    321
+  ],
+  [
+    "Topping from vegetable pizza",
+    247
+  ],
+  [
+    "Topping, butterscotch or caramel",
+    216
+  ],
+  [
+    "Topping, chocolate",
+    350
+  ],
+  [
+    "Topping, fruit",
+    254
+  ],
+  [
+    "Topping, marshmallow",
+    322
+  ],
+  [
+    "Topping, nuts and syrup",
+    448
+  ],
+  [
+    "Tortellini, cheese-filled, meatless, with tomato sauce",
+    149
+  ],
+  [
+    "Tortellini, cheese-filled, meatless, with tomato sauce, canned",
+    91
+  ],
+  [
+    "Tortellini, cheese-filled, meatless, with vinaigrette dressing",
+    193
+  ],
+  [
+    "Tortellini, cheese-filled, no sauce",
+    236
+  ],
+  [
+    "Tortellini, cheese-filled, with cream sauce",
+    153
+  ],
+  [
+    "Tortellini, meat-filled, no sauce",
+    190
+  ],
+  [
+    "Tortellini, meat-filled, with tomato sauce",
+    134
+  ],
+  [
+    "Tortellini, meat-filled, with tomato sauce, canned",
+    89
+  ],
+  [
+    "Tortellini, spinach-filled, no sauce",
+    188
+  ],
+  [
+    "Tortellini, spinach-filled, with tomato sauce",
+    121
+  ],
+  [
+    "Tortilla chips, cool ranch flavor (Doritos)",
+    470
+  ],
+  [
+    "Tortilla chips, flavored",
+    519
+  ],
+  [
+    "Tortilla chips, low fat, unsalted",
+    416
+  ],
+  [
+    "Tortilla chips, nacho cheese flavor (Doritos)",
+    519
+  ],
+  [
+    "Tortilla chips, other flavors (Doritos)",
+    519
+  ],
+  [
+    "Tortilla chips, plain",
+    472
+  ],
+  [
+    "Tortilla chips, reduced fat, flavored",
+    411
+  ],
+  [
+    "Tortilla chips, reduced fat, plain",
+    411
+  ],
+  [
+    "Tortilla chips, reduced sodium",
+    489
+  ],
+  [
+    "Tortilla, corn",
+    218
+  ],
+  [
+    "Tortilla, flour",
+    306
+  ],
+  [
+    "Tortilla, NFS",
+    262
+  ],
+  [
+    "Tortilla, whole wheat",
+    310
+  ],
+  [
+    "Trail mix with chocolate",
+    503
+  ],
+  [
+    "Trail mix with nuts",
+    604
+  ],
+  [
+    "Trail mix with nuts and fruit",
+    454
+  ],
+  [
+    "Trail mix with pretzels, cereal, or granola",
+    476
+  ],
+  [
+    "Trail mix, NFS",
+    454
+  ],
+  [
+    "Trifle",
+    169
+  ],
+  [
+    "Tripe",
+    89
+  ],
+  [
+    "Tuna and rice with mushroom sauce",
+    128
+  ],
+  [
+    "Tuna cake or patty",
+    206
+  ],
+  [
+    "Tuna casserole with vegetables and mushroom sauce, no noodles",
+    115
+  ],
+  [
+    "Tuna noodle casserole with cream or white sauce",
+    168
+  ],
+  [
+    "Tuna noodle casserole with mushroom sauce",
+    139
+  ],
+  [
+    "Tuna noodle casserole with vegetables and mushroom sauce",
+    124
+  ],
+  [
+    "Tuna noodle casserole with vegetables, cream or white sauce",
+    149
+  ],
+  [
+    "Tuna salad sandwich on wheat",
+    217
+  ],
+  [
+    "Tuna salad sandwich on wheat, with cheese",
+    232
+  ],
+  [
+    "Tuna salad sandwich on white",
+    218
+  ],
+  [
+    "Tuna salad sandwich on white, with cheese",
+    233
+  ],
+  [
+    "Tuna salad sandwich wrap",
+    244
+  ],
+  [
+    "Tuna salad with cheese",
+    214
+  ],
+  [
+    "Tuna salad with egg",
+    190
+  ],
+  [
+    "Tuna salad, made with any type of fat free dressing",
+    72
+  ],
+  [
+    "Tuna salad, made with creamy dressing",
+    148
+  ],
+  [
+    "Tuna salad, made with Italian dressing",
+    106
+  ],
+  [
+    "Tuna salad, made with light creamy dressing",
+    78
+  ],
+  [
+    "Tuna salad, made with light Italian dressing",
+    76
+  ],
+  [
+    "Tuna salad, made with light mayonnaise",
+    106
+  ],
+  [
+    "Tuna salad, made with light mayonnaise-type salad dressing",
+    106
+  ],
+  [
+    "Tuna salad, made with mayonnaise",
+    194
+  ],
+  [
+    "Tuna salad, made with mayonnaise-type salad dressing",
+    108
+  ],
+  [
+    "Tuna with cream or white sauce",
+    102
+  ],
+  [
+    "Turkey and ham sandwich on wheat",
+    170
+  ],
+  [
+    "Turkey and ham sandwich on wheat, with cheese",
+    194
+  ],
+  [
+    "Turkey and ham sandwich on white",
+    172
+  ],
+  [
+    "Turkey and ham sandwich on white, with cheese",
+    195
+  ],
+  [
+    "Turkey and ham sandwich or sub, restaurant",
+    163
+  ],
+  [
+    "Turkey and ham sandwich or sub, with cheese, restaurant",
+    191
+  ],
+  [
+    "Turkey bacon, cooked",
+    368
+  ],
+  [
+    "Turkey bacon, reduced sodium, cooked",
+    253
+  ],
+  [
+    "Turkey ham, prepackaged or deli, luncheon meat",
+    106
+  ],
+  [
+    "Turkey light or dark meat, stewed, skin eaten",
+    204
+  ],
+  [
+    "Turkey or chicken and pork sausage",
+    307
+  ],
+  [
+    "Turkey or chicken burger, on wheat bun",
+    227
+  ],
+  [
+    "Turkey or chicken burger, on white bun",
+    234
+  ],
+  [
+    "Turkey or chicken sausage",
+    193
+  ],
+  [
+    "Turkey or chicken sausage, reduced sodium",
+    230
+  ],
+  [
+    "Turkey sandwich on wheat",
+    187
+  ],
+  [
+    "Turkey sandwich on wheat, with cheese",
+    214
+  ],
+  [
+    "Turkey sandwich on white",
+    189
+  ],
+  [
+    "Turkey sandwich on white, with cheese",
+    215
+  ],
+  [
+    "Turkey sandwich or sub, restaurant",
+    180
+  ],
+  [
+    "Turkey sandwich or sub, with cheese, restaurant",
+    212
+  ],
+  [
+    "Turkey sandwich wrap",
+    232
+  ],
+  [
+    "Turkey with gravy",
+    125
+  ],
+  [
+    "Turkey with gravy, dressing, potatoes, vegetable, frozen meal",
+    128
+  ],
+  [
+    "Turkey with vegetable, stuffing, diet frozen meal",
+    96
+  ],
+  [
+    "Turkey, back",
+    203
+  ],
+  [
+    "Turkey, canned",
+    185
+  ],
+  [
+    "Turkey, dark meat, roasted, skin eaten",
+    202
+  ],
+  [
+    "Turkey, dark meat, roasted, skin not eaten",
+    167
+  ],
+  [
+    "Turkey, drumstick, cooked, skin eaten",
+    206
+  ],
+  [
+    "Turkey, drumstick, cooked, skin not eaten",
+    144
+  ],
+  [
+    "Turkey, drumstick, roasted, skin eaten",
+    203
+  ],
+  [
+    "Turkey, drumstick, roasted, skin not eaten",
+    144
+  ],
+  [
+    "Turkey, ground",
+    211
+  ],
+  [
+    "Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",
+    220
+  ],
+  [
+    "Turkey, ground, 93% lean/ 7% fat, raw",
+    158
+  ],
+  [
+    "Turkey, light and dark meat, roasted, skin eaten",
+    183
+  ],
+  [
+    "Turkey, light and dark meat, roasted, skin not eaten",
+    151
+  ],
+  [
+    "Turkey, light meat, breaded, baked or fried, skin eaten",
+    200
+  ],
+  [
+    "Turkey, light meat, breaded, baked or fried, skin not eaten",
+    173
+  ],
+  [
+    "Turkey, light meat, roasted, skin eaten",
+    169
+  ],
+  [
+    "Turkey, light meat, roasted, skin not eaten",
+    139
+  ],
+  [
+    "Turkey, light meat, skin eaten",
+    169
+  ],
+  [
+    "Turkey, light meat, skin not eaten",
+    139
+  ],
+  [
+    "Turkey, light or dark meat, fried, coated, skin eaten",
+    192
+  ],
+  [
+    "Turkey, light or dark meat, fried, coated, skin not eaten",
+    165
+  ],
+  [
+    "Turkey, light or dark meat, smoked, skin eaten",
+    208
+  ],
+  [
+    "Turkey, light or dark meat, smoked, skin not eaten",
+    162
+  ],
+  [
+    "Turkey, light or dark meat, stewed, skin not eaten",
+    158
+  ],
+  [
+    "Turkey, neck",
+    161
+  ],
+  [
+    "Turkey, NFS",
+    139
+  ],
+  [
+    "Turkey, nuggets",
+    236
+  ],
+  [
+    "Turkey, prepackaged or deli, luncheon meat",
+    106
+  ],
+  [
+    "Turkey, prepackaged or deli, luncheon meat, reduced sodium",
+    106
+  ],
+  [
+    "Turkey, tail",
+    294
+  ],
+  [
+    "Turkey, thigh, cooked, skin eaten",
+    182
+  ],
+  [
+    "Turkey, thigh, cooked, skin not eaten",
+    161
+  ],
+  [
+    "Turkey, wing, cooked, skin eaten",
+    202
+  ],
+  [
+    "Turkey, wing, cooked, skin not eaten",
+    139
+  ],
+  [
+    "Turnip greens, fresh, cooked, fat added",
+    42
+  ],
+  [
+    "Turnip greens, fresh, cooked, no added fat",
+    20
+  ],
+  [
+    "Turnip greens, frozen, cooked, fat added",
+    51
+  ],
+  [
+    "Turnip greens, frozen, cooked, no added fat",
+    29
+  ],
+  [
+    "Turnip, cooked",
+    54
+  ],
+  [
+    "Turnip, pickled",
+    44
+  ],
+  [
+    "Turnip, raw",
+    28
+  ],
+  [
+    "Turnover or breakfast pocket, egg",
+    265
+  ],
+  [
+    "Turnover or hot pocket, beef",
+    233
+  ],
+  [
+    "Turnover or hot pocket, chicken",
+    215
+  ],
+  [
+    "Turnover or hot pocket, ham",
+    256
+  ],
+  [
+    "Turnover or hot pocket, meatless",
+    198
+  ],
+  [
+    "Turnover or hot pocket, NFS",
+    260
+  ],
+  [
+    "Turnover or hot pocket, pizza pocket",
+    244
+  ],
+  [
+    "Turnover or hot pocket, pizza pocket, meat",
+    260
+  ],
+  [
+    "Turnover or lean pocket",
+    208
+  ],
+  [
+    "Turnover, fruit",
+    316
+  ],
+  [
+    "Turnover, seafood",
+    207
+  ],
+  [
+    "Turrnip greens, NS as to form, cooked",
+    42
+  ],
+  [
+    "Turtle",
+    157
+  ],
+  [
+    "Tzatziki dip",
+    91
+  ],
+  [
+    "Upma",
+    87
+  ],
+  [
+    "Vada",
+    266
+  ],
+  [
+    "Veal cordon bleu",
+    219
+  ],
+  [
+    "Veal Marsala",
+    175
+  ],
+  [
+    "Veal parmigiana",
+    204
+  ],
+  [
+    "Veal scallopini",
+    241
+  ],
+  [
+    "Veal, chop",
+    158
+  ],
+  [
+    "Veal, ground",
+    213
+  ],
+  [
+    "Vegan mayonnaise",
+    232
+  ],
+  [
+    "Vegetable and fruit juice drink, with high vitamin C",
+    29
+  ],
+  [
+    "Vegetable and fruit juice drink, with high vitamin C, diet",
+    4
+  ],
+  [
+    "Vegetable and fruit juice drink, with high vitamin C, light",
+    4
+  ],
+  [
+    "Vegetable and fruit juice, 100% juice, with high vitamin C",
+    46
+  ],
+  [
+    "Vegetable chips",
+    495
+  ],
+  [
+    "Vegetable curry",
+    86
+  ],
+  [
+    "Vegetable curry with rice",
+    103
+  ],
+  [
+    "Vegetable dip, light",
+    198
+  ],
+  [
+    "Vegetable dip, regular",
+    429
+  ],
+  [
+    "Vegetable dip, yogurt based",
+    191
+  ],
+  [
+    "Vegetable mixture, dried",
+    328
+  ],
+  [
+    "Vegetable oil, NFS",
+    900
+  ],
+  [
+    "Vegetable sandwich on wheat",
+    119
+  ],
+  [
+    "Vegetable sandwich on wheat, with cheese",
+    146
+  ],
+  [
+    "Vegetable sandwich on white",
+    120
+  ],
+  [
+    "Vegetable sandwich on white, with cheese",
+    147
+  ],
+  [
+    "Vegetable sandwich wrap",
+    160
+  ],
+  [
+    "Vegetable smoothie",
+    89
+  ],
+  [
+    "Vegetable tempura",
+    239
+  ],
+  [
+    "Vegetables as ingredient in curry",
+    53
+  ],
+  [
+    "Vegetables as ingredient in soups",
+    50
+  ],
+  [
+    "Vegetables as ingredient in stews",
+    59
+  ],
+  [
+    "Vegetables, pickled",
+    46
+  ],
+  [
+    "Vegetables, stew type, cooked, fat added",
+    97
+  ],
+  [
+    "Vegetables, stew type, cooked, no added fat",
+    69
+  ],
+  [
+    "Vegetarian stew",
+    33
+  ],
+  [
+    "Vegetarian stroganoff",
+    167
+  ],
+  [
+    "Vegetarian, fillet",
+    290
+  ],
+  [
+    "Veggie burger patty, no bun",
+    177
+  ],
+  [
+    "Veggie burger, on bun",
+    224
+  ],
+  [
+    "Veggie burger, on bun, with cheese",
+    243
+  ],
+  [
+    "Venison or deer and noodles with cream or white sauce",
+    141
+  ],
+  [
+    "Venison or deer with gravy",
+    147
+  ],
+  [
+    "Venison or deer with tomato-based sauce",
+    140
+  ],
+  [
+    "Venison or deer, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",
+    134
+  ],
+  [
+    "Venison or deer, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+    130
+  ],
+  [
+    "Venison or deer, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+    127
+  ],
+  [
+    "Venison or deer, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+    127
+  ],
+  [
+    "Venison sausage",
+    312
+  ],
+  [
+    "Venison, NFS",
+    167
+  ],
+  [
+    "Venison, steak",
+    149
+  ],
+  [
+    "Venison/deer jerky",
+    398
+  ],
+  [
+    "Vermicelli, made from soybeans",
+    126
+  ],
+  [
+    "Vienna sausage, canned",
+    230
+  ],
+  [
+    "Vienna sausages stewed with potatoes, Puerto Rican style",
+    219
+  ],
+  [
+    "Vinegar",
+    21
+  ],
+  [
+    "Vodka",
+    231
+  ],
+  [
+    "Vodka and cola",
+    89
+  ],
+  [
+    "Vodka and diet cola",
+    60
+  ],
+  [
+    "Vodka and energy drink",
+    90
+  ],
+  [
+    "Vodka and lemonade",
+    93
+  ],
+  [
+    "Vodka and soda",
+    59
+  ],
+  [
+    "Vodka and tonic",
+    84
+  ],
+  [
+    "Vodka and water",
+    59
+  ],
+  [
+    "Vodka sauce with tomatoes and cream",
+    75
+  ],
+  [
+    "Waffle, chocolate",
+    437
+  ],
+  [
+    "Waffle, chocolate, fast food / restaurant",
+    480
+  ],
+  [
+    "Waffle, chocolate, frozen",
+    320
+  ],
+  [
+    "Waffle, cinnamon",
+    373
+  ],
+  [
+    "Waffle, fruit",
+    307
+  ],
+  [
+    "Waffle, fruit, fast food / restaurant",
+    354
+  ],
+  [
+    "Waffle, fruit, frozen",
+    296
+  ],
+  [
+    "Waffle, gluten free",
+    263
+  ],
+  [
+    "Waffle, NFS",
+    309
+  ],
+  [
+    "Waffle, plain",
+    373
+  ],
+  [
+    "Waffle, plain, fast food / restaurant",
+    428
+  ],
+  [
+    "Waffle, plain, frozen",
+    309
+  ],
+  [
+    "Waffle, plain, reduced fat",
+    292
+  ],
+  [
+    "Waffle, school",
+    257
+  ],
+  [
+    "Waffle, whole grain",
+    364
+  ],
+  [
+    "Waffle, whole grain, fast food / restaurant",
+    421
+  ],
+  [
+    "Waffle, whole grain, frozen",
+    289
+  ],
+  [
+    "Waffle, whole grain, fruit, frozen",
+    278
+  ],
+  [
+    "Waffle, whole grain, reduced fat",
+    257
+  ],
+  [
+    "Walnut oil",
+    884
+  ],
+  [
+    "Walnuts, excluding honey roasted",
+    730
+  ],
+  [
+    "Walnuts, honey roasted",
+    668
+  ],
+  [
+    "Wasabi paste",
+    292
+  ],
+  [
+    "Wasabi peas",
+    432
+  ],
+  [
+    "Water beverage, fruit flavored",
+    18
+  ],
+  [
+    "Water Chesnut",
+    78
+  ],
+  [
+    "Water, baby",
+    0
+  ],
+  [
+    "Water, bottled, plain",
+    0
+  ],
+  [
+    "Water, carbonated, flavored",
+    0
+  ],
+  [
+    "Water, carbonated, plain",
+    0
+  ],
+  [
+    "Water, enhanced, diet",
+    0
+  ],
+  [
+    "Water, enhanced, regular",
+    22
+  ],
+  [
+    "Water, NFS",
+    0
+  ],
+  [
+    "Water, non-carbonated, flavored",
+    1
+  ],
+  [
+    "Water, tap",
+    0
+  ],
+  [
+    "Water, tonic",
+    34
+  ],
+  [
+    "Watercress, cooked",
+    36
+  ],
+  [
+    "Watercress, raw",
+    11
+  ],
+  [
+    "Watermelon juice, 100%",
+    30
+  ],
+  [
+    "Watermelon, raw",
+    30
+  ],
+  [
+    "Welsh rarebit",
+    165
+  ],
+  [
+    "Wheat bran",
+    216
+  ],
+  [
+    "Wheat bread as ingredient in sandwiches",
+    264
+  ],
+  [
+    "Wheat bun as ingredient in sandwiches",
+    264
+  ],
+  [
+    "Wheat cereal, chocolate flavored, cooked",
+    49
+  ],
+  [
+    "Wheat germ",
+    382
+  ],
+  [
+    "Wheat germ oil",
+    884
+  ],
+  [
+    "Whey, sweet, dry",
+    353
+  ],
+  [
+    "Whipped topping",
+    318
+  ],
+  [
+    "Whipped topping, fat free",
+    224
+  ],
+  [
+    "Whipped topping, sugar free",
+    224
+  ],
+  [
+    "Whiskey",
+    231
+  ],
+  [
+    "Whiskey and cola",
+    89
+  ],
+  [
+    "Whiskey and diet cola",
+    60
+  ],
+  [
+    "Whiskey and ginger ale",
+    83
+  ],
+  [
+    "Whiskey and soda",
+    59
+  ],
+  [
+    "Whiskey and water",
+    59
+  ],
+  [
+    "Whiskey sour",
+    123
+  ],
+  [
+    "White beans, from canned, fat added",
+    211
+  ],
+  [
+    "White beans, from canned, no added fat",
+    168
+  ],
+  [
+    "White beans, from canned, reduced sodium",
+    211
+  ],
+  [
+    "White beans, from dried, fat added",
+    188
+  ],
+  [
+    "White beans, from dried, no added fat",
+    138
+  ],
+  [
+    "White beans, NFS",
+    188
+  ],
+  [
+    "White chocolate candy",
+    539
+  ],
+  [
+    "White pizza, cheese, thick crust",
+    280
+  ],
+  [
+    "White pizza, cheese, thin crust",
+    285
+  ],
+  [
+    "White pizza, cheese, with meat and vegetables, thick crust",
+    270
+  ],
+  [
+    "White pizza, cheese, with meat and vegetables, thin crust",
+    272
+  ],
+  [
+    "White pizza, cheese, with meat, thick crust",
+    296
+  ],
+  [
+    "White pizza, cheese, with meat, thin crust",
+    304
+  ],
+  [
+    "White pizza, cheese, with vegetables, thick crust",
+    244
+  ],
+  [
+    "White pizza, cheese, with vegetables, thin crust",
+    241
+  ],
+  [
+    "White Russian",
+    181
+  ],
+  [
+    "White sauce or gravy",
+    144
+  ],
+  [
+    "Whole wheat cereal, cooked",
+    47
+  ],
+  [
+    "Whopper (Burger King)",
+    226
+  ],
+  [
+    "Whopper Jr (Burger King)",
+    216
+  ],
+  [
+    "Whopper Jr with cheese (Burger King)",
+    235
+  ],
+  [
+    "Whopper with cheese (Burger King)",
+    268
+  ],
+  [
+    "Wild pig",
+    159
+  ],
+  [
+    "Wild rice, dry, raw",
+    369
+  ],
+  [
+    "Wine cooler",
+    68
+  ],
+  [
+    "Wine spritzer",
+    49
+  ],
+  [
+    "Wine, dessert, sweet",
+    160
+  ],
+  [
+    "Wine, light",
+    49
+  ],
+  [
+    "Wine, nonalcoholic",
+    6
+  ],
+  [
+    "Wine, red",
+    85
+  ],
+  [
+    "Wine, rice",
+    134
+  ],
+  [
+    "Wine, rose",
+    83
+  ],
+  [
+    "Wine, sparkling",
+    75
+  ],
+  [
+    "Wine, white",
+    82
+  ],
+  [
+    "Winter melon, cooked",
+    36
+  ],
+  [
+    "Winter squash, cooked, fat added",
+    59
+  ],
+  [
+    "Winter squash, cooked, no added fat",
+    37
+  ],
+  [
+    "Winter squash, raw",
+    26
+  ],
+  [
+    "Wonton, dumpling or pot sticker, fried",
+    192
+  ],
+  [
+    "Wonton, dumpling or pot sticker, fried, no meat",
+    192
+  ],
+  [
+    "Wonton, dumpling or pot sticker, steamed",
+    113
+  ],
+  [
+    "Worcestershire sauce",
+    77
+  ],
+  [
+    "Yat Ga Mein with meat, fish, or poultry",
+    134
+  ],
+  [
+    "Yeast",
+    325
+  ],
+  [
+    "Yeast extract spread",
+    185
+  ],
+  [
+    "Yellow rice, cooked, fat added",
+    103
+  ],
+  [
+    "Yellow rice, cooked, no added fat",
+    88
+  ],
+  [
+    "Yellow rice, cooked, NS as to fat",
+    88
+  ],
+  [
+    "Yellow string beans, cooked",
+    50
+  ],
+  [
+    "Yogurt parfait, with fruit",
+    104
+  ],
+  [
+    "Yogurt tube",
+    81
+  ],
+  [
+    "Yogurt, almond milk",
+    128
+  ],
+  [
+    "Yogurt, coconut milk",
+    108
+  ],
+  [
+    "Yogurt, Greek, low fat milk, flavors other than fruit",
+    81
+  ],
+  [
+    "Yogurt, Greek, low fat milk, fruit",
+    91
+  ],
+  [
+    "Yogurt, Greek, low fat milk, plain",
+    67
+  ],
+  [
+    "Yogurt, Greek, nonfat milk, flavors other than fruit",
+    73
+  ],
+  [
+    "Yogurt, Greek, nonfat milk, fruit",
+    83
+  ],
+  [
+    "Yogurt, Greek, nonfat milk, plain",
+    59
+  ],
+  [
+    "Yogurt, Greek, NS as to type of milk or flavor",
+    91
+  ],
+  [
+    "Yogurt, Greek, NS as to type of milk, flavors other than fruit",
+    81
+  ],
+  [
+    "Yogurt, Greek, NS as to type of milk, fruit",
+    91
+  ],
+  [
+    "Yogurt, Greek, NS as to type of milk, plain",
+    67
+  ],
+  [
+    "Yogurt, Greek, plain, nonfat",
+    61.0
+  ],
+  [
+    "Yogurt, Greek, plain, whole milk",
+    94.5
+  ],
+  [
+    "Yogurt, Greek, strawberry, nonfat",
+    83.0
+  ],
+  [
+    "Yogurt, Greek, whole milk, flavors other than fruit",
+    104
+  ],
+  [
+    "Yogurt, Greek, whole milk, fruit",
+    114
+  ],
+  [
+    "Yogurt, Greek, whole milk, plain",
+    94
+  ],
+  [
+    "Yogurt, Greek, with oats",
+    149
+  ],
+  [
+    "Yogurt, liquid",
+    74
+  ],
+  [
+    "Yogurt, low fat milk, flavors other than fruit",
+    82
+  ],
+  [
+    "Yogurt, low fat milk, fruit",
+    93
+  ],
+  [
+    "Yogurt, low fat milk, plain",
+    63
+  ],
+  [
+    "Yogurt, NFS",
+    94
+  ],
+  [
+    "Yogurt, nonfat milk, flavors other than fruit",
+    47
+  ],
+  [
+    "Yogurt, nonfat milk, fruit",
+    46
+  ],
+  [
+    "Yogurt, nonfat milk, plain",
+    50
+  ],
+  [
+    "Yogurt, NS as to type of milk or flavor",
+    93
+  ],
+  [
+    "Yogurt, NS as to type of milk, flavors other than fruit",
+    82
+  ],
+  [
+    "Yogurt, NS as to type of milk, fruit",
+    93
+  ],
+  [
+    "Yogurt, NS as to type of milk, plain",
+    63
+  ],
+  [
+    "Yogurt, plain, nonfat",
+    50.1
+  ],
+  [
+    "Yogurt, plain, whole milk",
+    78.0
+  ],
+  [
+    "Yogurt, soy",
+    90
+  ],
+  [
+    "Yogurt, whole milk, flavors other than fruit",
+    95
+  ],
+  [
+    "Yogurt, whole milk, fruit",
+    106
+  ],
+  [
+    "Yogurt, whole milk, plain",
+    78
+  ],
+  [
+    "Yokan",
+    133
+  ],
+  [
+    "Yuca fries",
+    269
+  ],
+  [
+    "Zucchini, pickled",
+    35
+  ],
+  [
+    "Zwieback toast",
+    426
+  ]
+]

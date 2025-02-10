@@ -1,5 +1,6 @@
 .env
 venv/
-models/
+models/finetuned/
+models/__pycache__/
 
 .DS_Store
