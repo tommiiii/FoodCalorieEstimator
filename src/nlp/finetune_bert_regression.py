@@ -18,7 +18,7 @@ class FoodDataset(Dataset):
         self.examples = []
         for item in data:
             text = item[0]
-            calories = item[1]
+            calories = item[1] / 1000.0
             encoding = tokenizer(text, truncation=True, padding='max_length', max_length=max_length)
             encoding['labels'] = torch.tensor(calories, dtype=torch.float)
             self.examples.append(encoding)
