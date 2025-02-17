@@ -27,6 +27,7 @@ class FoodDataset(Dataset):
         return {key: torch.tensor(val) for key, val in self.examples[idx].items()}
 
 def main():
+    dotenv.load_dotenv()
     # Find the USDA files with largest numbers in train and eval directories
     train_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "train", os.getenv("TRAIN_FILE", "usda"))
     eval_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "eval", os.getenv("EVAL_FILE", "usda"))
@@ -39,8 +40,8 @@ def main():
     eval_dataset = FoodDataset(eval_dir, tokenizer)
 
     training_args = TrainingArguments(
-        output_dir=os.path.join(os.path.dirname(__file__), "..", "..", "models", "finetuned"),
-        num_train_epochs=10,
+        output_dir=os.path.join(os.path.dirname(__file__), "..", "..", "models", "finetuned", "bert_regression"),
+        num_train_epochs=2,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
         warmup_ratio=0.1,
@@ -68,5 +69,4 @@ def main():
     trainer.train()
 
 if __name__ == "__main__":
-    dotenv.load_dotenv()
     main()
