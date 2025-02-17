@@ -78,7 +78,7 @@ The following commands are available after installation:
 - [x] USDA data fetching and processing
 - [x] Basic BERT fine-tuning
 - [x] Regression model implementation
-- [ ] Improved embedding extraction
+- [ ] Improved embedding extraction (instead of creating an index from the embedding matrix of the finetuned model, create a new embedding space comprised of the sentence embeddings of all the raw descriptions (along with an ID) from the dataset, to allow reverse search.)
 - [ ] Enhanced NER for ingredients
 - [ ] Extended validation datasets
 - [ ] API deployment
