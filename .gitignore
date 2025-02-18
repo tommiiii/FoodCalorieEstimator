@@ -2,5 +2,6 @@
 .venv/
 models/finetuned/
 models/__pycache__/
+indexes/
 
 .DS_Store
